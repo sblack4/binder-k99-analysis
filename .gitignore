@@ -1,0 +1,4 @@
+# python
+pythonenv3.8
+*.pyc
+__pycache__
