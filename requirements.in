@@ -3,3 +3,4 @@ matplotlib==3.*
 pandas
 requests
 sklearn
+seaborn
