@@ -3,7 +3,8 @@ Network intrusion detector (for school) based on 1999 Knowledge Discovery and Da
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sblack4/binder-k99-analysis/master?filepath=index.ipynb)
 
-
+## About
+Binderhub is super cool so I wanted to try out hosting a notebook on there, hence this repo. I used [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) to create it. Ohh, and the notebook! It's 
 
 ## References
 
